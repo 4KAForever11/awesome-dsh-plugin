@@ -1,0 +1,6 @@
+url: https://github.com/4KAForever11/dsh-mimo-tts
+name: 4KAForever11/dsh-mimo-tts
+category: voice
+description.en: "Brings Xiaomi MiMo speech into DeepSeek Harness. Record a message and have mimo-v2.5-asr transcribe it into the composer, read assistant replies aloud, run hands-free voice conversations, and turn lyrics into a sung performance with mimo-v2.5-tts. Each of the four capabilities has its own switch, the settings page auditions and switches the nine built-in voices, and local rate and length budgets mirror the published RPM and context caps."
+description.zh: "把小米 MiMo 的语音能力接进 DeepSeek Harness。录音后由 mimo-v2.5-asr 转写并插入输入框、把助手回复朗读出来、免手语音对话，以及用 mimo-v2.5-tts 把歌词唱成歌。四项能力各有独立开关，设置页可试听并切换九种预置音色，本地限流与字数上限对齐官方 RPM 与上下文规格。"
+icon: https://raw.githubusercontent.com/4KAForever11/dsh-mimo-tts/main/assets/icon-180.png
